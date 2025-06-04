@@ -1,0 +1,2 @@
+# mcsm
+Minecraft Server Manager
